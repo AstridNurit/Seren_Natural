@@ -1,0 +1,26 @@
+.footer{
+    font-family: "Alice";
+    padding: 10px;
+    text-align: center;
+    background-color: green;
+    color:white
+    
+    
+}
+
+.logo{
+    
+    height: 250px;
+    width: 250px;
+    
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.container{
+    margin-bottom: 30px;
+}
